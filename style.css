@@ -1,10 +1,22 @@
+:root{
+    --cor-fundo: rgb(194, 161, 161);
+    --cor-texto: rgb(39, 28, 28);
+    --cor-principal: rgb(71, 53, 53);
+    --cor-secundaria: rgb(90, 64, 64);
+    --cor-hover: rgb(206, 95, 114);
+    --cor-superficie: white;
+    --cor-card: pink;
+    --cor-legenda: rgb(56, 23, 23);
+    --cor-clara: white;
+    --cor-rodape: rgb(39, 28, 28); 
+}
 body{
-    background-color: rgb(85, 247, 193);
+    background-color: rgb(224, 132, 132);
     color:rgb(0, 0, 0);
     font-family: Arial, sans-serif;
 }
 header{
-    background-color: aquamarine;
+    background-color: rgb(151, 38, 56);
     color: black;
     text-align: center;
     padding: 30px;
