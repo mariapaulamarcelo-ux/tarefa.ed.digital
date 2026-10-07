@@ -11,13 +11,13 @@
     --cor-rodape: rgb(39, 28, 28); 
 }
 body{
-    background-color: rgb(224, 132, 132);
-    color:rgb(0, 0, 0);
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
     font-family: Arial, sans-serif;
 }
 header{
-    background-color: rgb(151, 38, 56);
-    color: black;
+    background-color:var(--cor-principal);
+    color: var(--cor-clara);
     text-align: center;
     padding: 30px;
 }
