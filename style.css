@@ -25,7 +25,7 @@ h1{
     font-size: 36px;
 }
 h2{
-    color: azure;
+    color: var(--cor-principal);
 }
 p{
     font-size: 18px;
@@ -35,7 +35,7 @@ nav{
     margin-top: 20px;
 }
 nav a{
-    color: white;
+    color: var(--cor-clara);
     text-decoration: none;
     background-color: rgb(90, 89, 117);
     padding: 10px 15px;
